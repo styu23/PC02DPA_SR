@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PC02DPA_SR</string>
+    <string name="valuetxtRDNI">Ingrese su DNI</string>
+    <string name="valuetxtRPASSWORD">Ingrese su clave</string>
+    <string name="valuetxtRNOMBRE">Ingrese su nombre completo</string>
+    <string name="valuetxtRCLAVEREPITE">Ingrese nuevamente su clave</string>
+    <string name="valuebtnRegistrar">REGISTRAR CUENTA</string>
+    <string name="valuetxtIDNI">Ingrese su dni</string>
+    <string name="valuetxtICLAVE">Ingrese su clave</string>
+    <string name="valuebtnIngresar">INGRESAR</string>
+    <string name="valuebtnCrear">CREAR UNA CUENTA</string>
+</resources>

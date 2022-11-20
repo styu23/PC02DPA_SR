@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514269571305",
+    "project_id": "esan-b1ae8",
+    "storage_bucket": "esan-b1ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514269571305:android:086f93b0a7693ecce5e878",
+        "android_client_info": {
+          "package_name": "com.example.pc02dpa_sr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514269571305-952snargbqi6h861d0ll2s9f8v07tt93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyv7reiXMhTPDtf8AHRj5GSuh3K-g3hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514269571305-952snargbqi6h861d0ll2s9f8v07tt93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
